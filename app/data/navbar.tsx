@@ -7,5 +7,5 @@ export const Menus = [
     { title: "Experiences", link: "/workExperiences" },
     { title: "Projects", link: "/projects" },
     { title: "About", link: "/about" },
-    { title: "Resume", link: "/WandaAuliaResume.pdf", download: true },
+    { title: "Resume", link: "/WandaAulia_Resume.pdf", download: true },
   ];
